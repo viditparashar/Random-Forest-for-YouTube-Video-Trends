@@ -1,0 +1,13 @@
+pandas==1.5.3
+numpy==1.23.5
+nltk==3.8.1
+textblob==0.17.1
+sentence-transformers==2.2.2
+scikit-learn==1.2.2
+shap==0.41.0
+lime==0.2.0.1
+matplotlib==3.7.1
+seaborn==0.12.2
+googletrans==4.0.0rc1
+google-api-python-client==2.70.0
+
